@@ -1,0 +1,35 @@
+{
+	"$schema": "https://turbo.build/schema.json",
+	"pipeline": {
+		"check-format": {
+			"inputs": [],
+			"outputs": []
+		},
+		"check-types": {
+			"dependsOn": ["^check-types"],
+			"inputs": ["**/*.{ts,tsx}", "./tsconfig.json"],
+			"outputs": []
+		},
+		"dev": {
+			"cache": false
+		},
+		"lint": {
+			"inputs": ["**/*.{js,jsx,mjs,ts,tsx}", "./.eslintrc.{cjs,js}"],
+			"outputs": []
+		},
+		"build": {
+			"outputs": [".next/**", "dist/**"]
+		},
+		"scraper:build": {
+			"outputs": ["dist/**"]
+		},
+		"update-stats-day": {
+			"dependsOn": ["scraper:build"],
+			"cache": false
+		},
+		"update-stats-month": {
+			"dependsOn": ["scraper:build"],
+			"cache": false
+		}
+	}
+}

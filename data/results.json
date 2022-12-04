@@ -1,0 +1,1508 @@
+[
+	{
+		"ok": true,
+		"city": "Hong Kong",
+		"country": "Hong Kong",
+		"value": {
+			"intervals": [["01.11", "01.01"]],
+			"name": "Hong Kong",
+			"country": "Hong Kong SAR China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Bangkok",
+		"country": "Thailand",
+		"value": {
+			"intervals": [["01.12", "01.02"]],
+			"name": "Bangkok",
+			"country": "Thailand"
+		}
+	},
+	{
+		"ok": true,
+		"city": "London",
+		"country": "United Kingdom",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "London",
+			"country": "United Kingdom"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Macau",
+		"country": "Macau",
+		"value": {
+			"intervals": [["15.10", "01.12"]],
+			"name": "Macau",
+			"country": "Macau SAR China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Singapore",
+		"country": "Singapore",
+		"value": {
+			"intervals": [["01.01", "01.03"]],
+			"name": "Singapore",
+			"country": "Singapore"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Paris",
+		"country": "France",
+		"value": {
+			"intervals": [["15.06", "15.09"]],
+			"name": "Paris",
+			"country": "France"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Dubai",
+		"country": "United Arab Emirates",
+		"value": {
+			"intervals": [["15.11", "01.04"]],
+			"name": "Dubai",
+			"country": "United Arab Emirates"
+		}
+	},
+	{
+		"ok": true,
+		"city": "New York City",
+		"country": "United States",
+		"value": {
+			"intervals": [
+				["15.06", "01.07"],
+				["01.08", "01.10"]
+			],
+			"name": "New York City",
+			"country": "New York, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Kuala Lumpur",
+		"country": "Malaysia",
+		"value": {
+			"intervals": [
+				["15.07", "15.08"],
+				["15.12", "15.03"]
+			],
+			"name": "Kuala Lumpur",
+			"country": "Malaysia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Istanbul",
+		"country": "Turkey",
+		"value": {
+			"intervals": [["01.06", "01.10"]],
+			"name": "İstanbul",
+			"country": "Turkey"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Delhi",
+		"country": "India",
+		"value": {
+			"intervals": [
+				["15.10", "01.12"],
+				["01.03", "01.04"]
+			],
+			"name": "Delhi",
+			"country": "India"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Antalya",
+		"country": "Turkey",
+		"value": {
+			"intervals": [
+				["01.05", "15.06"],
+				["15.09", "01.11"]
+			],
+			"name": "Antalya",
+			"country": "Turkey"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Shenzhen",
+		"country": "China",
+		"value": {
+			"intervals": [["15.10", "15.12"]],
+			"name": "Shenzhen",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Mumbai",
+		"country": "India",
+		"value": {
+			"intervals": [["15.12", "01.03"]],
+			"name": "Mumbai",
+			"country": "India"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Phuket",
+		"country": "Thailand",
+		"value": {
+			"intervals": [["01.12", "15.02"]],
+			"name": "Phuket",
+			"country": "Thailand"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Rome",
+		"country": "Italy",
+		"value": {
+			"intervals": [
+				["15.05", "15.07"],
+				["01.09", "01.10"]
+			],
+			"name": "Rome",
+			"country": "Italy"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Tokyo",
+		"country": "Japan",
+		"value": {
+			"intervals": [
+				["15.05", "15.06"],
+				["01.09", "01.11"]
+			],
+			"name": "Tokyo",
+			"country": "Japan"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Pattaya",
+		"country": "Thailand",
+		"value": {
+			"intervals": [["01.01", "01.03"]],
+			"name": "Pattani",
+			"country": "Thailand"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Taipei",
+		"country": "Taiwan",
+		"value": {
+			"intervals": [["01.10", "01.12"]],
+			"name": "Taipei",
+			"country": "Taiwan"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Mecca",
+		"country": "Saudi Arabia",
+		"value": {
+			"intervals": [["01.12", "01.03"]],
+			"name": "Mecca",
+			"country": "Saudi Arabia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Guangzhou",
+		"country": "China",
+		"value": {
+			"intervals": [["15.10", "01.12"]],
+			"name": "Guangzhou",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Prague",
+		"country": "Czech Republic",
+		"value": {
+			"intervals": [["15.06", "01.09"]],
+			"name": "Prague",
+			"country": "Czechia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Medina",
+		"country": "Saudi Arabia",
+		"value": {
+			"intervals": [["15.11", "01.04"]],
+			"name": "Medina",
+			"country": "Saudi Arabia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Seoul",
+		"country": "South Korea",
+		"value": {
+			"intervals": [
+				["01.06", "01.07"],
+				["01.09", "01.10"]
+			],
+			"name": "Seoul",
+			"country": "South Korea"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Amsterdam",
+		"country": "Netherlands",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Amsterdam",
+			"country": "Netherlands"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Agra",
+		"country": "India",
+		"value": {
+			"intervals": [
+				["15.02", "15.03"],
+				["15.10", "01.12"]
+			],
+			"name": "Agra",
+			"country": "India"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Miami",
+		"country": "United States",
+		"value": {
+			"intervals": [["01.11", "01.05"]],
+			"name": "Miami",
+			"country": "Florida, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Osaka",
+		"country": "Japan",
+		"value": {
+			"intervals": [
+				["01.06", "01.06"],
+				["01.09", "15.10"]
+			],
+			"name": "Osaka",
+			"country": "Japan"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Las Vegas",
+		"country": "United States",
+		"value": {
+			"intervals": [
+				["01.05", "15.06"],
+				["01.09", "15.10"]
+			],
+			"name": "Las Vegas",
+			"country": "Nevada, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Shanghai",
+		"country": "China",
+		"value": {
+			"intervals": [["15.09", "15.10"]],
+			"name": "Shanghai",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Ho Chi Minh City",
+		"country": "Vietnam",
+		"value": {
+			"intervals": [["01.12", "01.03"]],
+			"name": "Ho Chi Minh City",
+			"country": "Vietnam"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Denpasar",
+		"country": "Indonesia",
+		"value": {
+			"intervals": [["01.07", "15.09"]],
+			"name": "Denpasar",
+			"country": "Indonesia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Barcelona",
+		"country": "Spain",
+		"value": {
+			"intervals": [
+				["01.06", "01.08"],
+				["01.09", "01.10"]
+			],
+			"name": "Barcelona",
+			"country": "Spain"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Los Angeles",
+		"country": "United States",
+		"value": {
+			"intervals": [["01.06", "15.10"]],
+			"name": "Los Angeles",
+			"country": "California, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Milan",
+		"country": "Italy",
+		"value": {
+			"intervals": [
+				["01.06", "01.07"],
+				["15.08", "01.10"]
+			],
+			"name": "Milan",
+			"country": "Italy"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Chennai",
+		"country": "India",
+		"value": {
+			"intervals": [["15.12", "15.02"]],
+			"name": "Chennai",
+			"country": "India"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Vienna",
+		"country": "Austria",
+		"value": {
+			"intervals": [["15.06", "01.09"]],
+			"name": "Vienna",
+			"country": "Austria"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Johor Bahru",
+		"country": "Malaysia",
+		"value": {
+			"intervals": [["01.01", "15.03"]],
+			"name": "Johor Bahru",
+			"country": "Malaysia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Jaipur",
+		"country": "India",
+		"value": {
+			"intervals": [
+				["15.02", "15.03"],
+				["15.10", "01.12"]
+			],
+			"name": "Jaipur",
+			"country": "India"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Cancún",
+		"country": "Mexico",
+		"value": {
+			"intervals": [["01.12", "01.04"]],
+			"name": "Cancún",
+			"country": "Mexico"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Berlin",
+		"country": "Germany",
+		"value": {
+			"intervals": [["15.06", "01.09"]],
+			"name": "Berlin",
+			"country": "Germany"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Cairo",
+		"country": "Egypt",
+		"value": {
+			"intervals": [
+				["01.03", "01.05"],
+				["15.10", "01.12"]
+			],
+			"name": "Cairo",
+			"country": "Egypt"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Orlando",
+		"country": "United States",
+		"value": {
+			"intervals": [
+				["15.03", "15.05"],
+				["15.10", "01.12"]
+			],
+			"name": "Orlando",
+			"country": "Florida, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Moscow",
+		"country": "Russia",
+		"value": {
+			"intervals": [["01.07", "15.08"]],
+			"name": "Moscow",
+			"country": "Russia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Venice",
+		"country": "Italy",
+		"value": {
+			"intervals": [
+				["15.05", "15.07"],
+				["15.08", "01.10"]
+			],
+			"name": "Venice",
+			"country": "Italy"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Madrid",
+		"country": "Spain",
+		"value": {
+			"intervals": [["01.06", "01.10"]],
+			"name": "Madrid",
+			"country": "Spain"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Ha Long",
+		"country": "Vietnam",
+		"value": {
+			"intervals": [
+				["15.02", "15.04"],
+				["01.11", "01.01"]
+			],
+			"name": "Thành Phố Hạ Long",
+			"country": "Vietnam"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Riyadh",
+		"country": "Saudi Arabia",
+		"value": {
+			"intervals": [
+				["01.02", "01.04"],
+				["01.11", "01.12"]
+			],
+			"name": "Riyadh",
+			"country": "Saudi Arabia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Dublin",
+		"country": "Ireland",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Dublin",
+			"country": "Ireland"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Florence",
+		"country": "Italy",
+		"value": {
+			"intervals": [
+				["15.05", "15.07"],
+				["01.09", "01.10"]
+			],
+			"name": "Florence",
+			"country": "Italy"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Jerusalem",
+		"country": "Israel",
+		"value": {
+			"intervals": [["15.05", "01.11"]],
+			"name": "Jerusalem",
+			"country": "Israel"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Hanoi",
+		"country": "Vietnam",
+		"value": {
+			"intervals": [
+				["01.02", "15.04"],
+				["01.11", "01.01"]
+			],
+			"name": "Hanoi",
+			"country": "Vietnam"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Toronto",
+		"country": "Canada",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Toronto",
+			"country": "Canada"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Johannesburg",
+		"country": "South Africa",
+		"value": {
+			"intervals": [
+				["01.09", "15.11"],
+				["15.12", "01.05"]
+			],
+			"name": "Johannesburg",
+			"country": "South Africa"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Sydney",
+		"country": "Australia",
+		"value": {
+			"intervals": [["01.12", "01.04"]],
+			"name": "Sydney",
+			"country": "Australia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Munich",
+		"country": "Germany",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Munich",
+			"country": "Germany"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Jakarta",
+		"country": "Indonesia",
+		"value": {
+			"intervals": [["15.06", "01.10"]],
+			"name": "Jakarta",
+			"country": "Indonesia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Beijing",
+		"country": "China",
+		"value": {
+			"intervals": [
+				["15.05", "01.07"],
+				["15.08", "01.10"]
+			],
+			"name": "Beijing",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Saint Petersburg",
+		"country": "Russia",
+		"value": {
+			"intervals": [["01.07", "15.08"]],
+			"name": "Saint Petersburg",
+			"country": "Russia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Brussels",
+		"country": "Belgium",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Brussels",
+			"country": "Belgium"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Budapest",
+		"country": "Hungary",
+		"value": {
+			"intervals": [["01.06", "15.09"]],
+			"name": "Budapest",
+			"country": "Hungary"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Lisbon",
+		"country": "Portugal",
+		"value": {
+			"intervals": [["01.06", "01.10"]],
+			"name": "Lisbon",
+			"country": "Portugal"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Dammam",
+		"country": "Saudi Arabia",
+		"value": {
+			"intervals": [
+				["01.02", "15.04"],
+				["01.11", "01.01"]
+			],
+			"name": "Dammam",
+			"country": "Saudi Arabia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Penang Island",
+		"country": "Malaysia",
+		"value": {
+			"intervals": [["15.12", "30.02"]],
+			"name": "Penang International Airport",
+			"country": "Malaysia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Heraklion",
+		"country": "Greece",
+		"value": {
+			"intervals": [
+				["01.05", "15.07"],
+				["01.09", "15.10"]
+			],
+			"name": "Heraklion International Airport",
+			"country": "Greece"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Kyoto",
+		"country": "Japan",
+		"value": {
+			"intervals": [
+				["01.06", "15.06"],
+				["01.09", "15.10"]
+			],
+			"name": "Kyoto",
+			"country": "Japan"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Zhuhai",
+		"country": "China",
+		"value": {
+			"intervals": [["15.10", "01.12"]],
+			"name": "Zhuhai",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Vancouver",
+		"country": "Canada",
+		"value": {
+			"intervals": [["15.07", "01.09"]],
+			"name": "Vancouver",
+			"country": "Canada"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Chiang Mai",
+		"country": "Thailand",
+		"value": {
+			"intervals": [["15.11", "01.03"]],
+			"name": "Chiang Mai",
+			"country": "Thailand"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Copenhagen",
+		"country": "Denmark",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Copenhagen",
+			"country": "Denmark"
+		}
+	},
+	{
+		"ok": true,
+		"city": "San Francisco",
+		"country": "United States",
+		"value": {
+			"intervals": [["01.07", "01.10"]],
+			"name": "San Francisco",
+			"country": "California, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Melbourne",
+		"country": "Australia",
+		"value": {
+			"intervals": [["01.01", "01.03"]],
+			"name": "Melbourne",
+			"country": "Australia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Warsaw",
+		"country": "Poland",
+		"value": {
+			"intervals": [["15.06", "01.09"]],
+			"name": "Warsaw",
+			"country": "Poland"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Marrakesh",
+		"country": "Morocco",
+		"value": {
+			"intervals": [
+				["15.03", "01.07"],
+				["15.09", "15.11"]
+			],
+			"name": "Marrakesh",
+			"country": "Morocco"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Kolkata",
+		"country": "India",
+		"value": {
+			"intervals": [["01.11", "01.03"]],
+			"name": "Kolkata",
+			"country": "India"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Cebu City",
+		"country": "Philippines",
+		"value": {
+			"intervals": [["01.01", "15.03"]],
+			"name": "Cebu City",
+			"country": "Philippines"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Auckland",
+		"country": "New Zealand",
+		"value": {
+			"intervals": [["01.01", "01.04"]],
+			"name": "Auckland",
+			"country": "New Zealand"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Tel Aviv",
+		"country": "Israel",
+		"value": {
+			"intervals": [
+				["15.04", "01.07"],
+				["01.10", "15.11"]
+			],
+			"name": "Tel Aviv",
+			"country": "Israel"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Guilin",
+		"country": "China",
+		"value": {
+			"intervals": [["01.10", "01.11"]],
+			"name": "Guilin",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Honolulu",
+		"country": "United States",
+		"value": {
+			"intervals": [["15.11", "15.08"]],
+			"name": "Honolulu",
+			"country": "Hawaii, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Hurghada",
+		"country": "Egypt",
+		"value": {
+			"intervals": [["01.11", "01.05"]],
+			"name": "Hurghada",
+			"country": "Egypt"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Kraków",
+		"country": "Poland",
+		"value": {
+			"intervals": [["15.06", "01.09"]],
+			"name": "Kraków",
+			"country": "Poland"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Muğla",
+		"country": "Turkey",
+		"value": {
+			"intervals": [["01.06", "01.10"]],
+			"name": "Muğla",
+			"country": "Turkey"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Buenos Aires",
+		"country": "Argentina",
+		"value": {
+			"intervals": [["01.11", "15.04"]],
+			"name": "Buenos Aires",
+			"country": "Argentina"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Chiba",
+		"country": "Japan",
+		"value": {
+			"intervals": [
+				["01.06", "01.06"],
+				["15.08", "01.11"]
+			],
+			"name": "Chiba",
+			"country": "Japan"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Frankfurt am Main",
+		"country": "Germany",
+		"value": {
+			"intervals": [["15.06", "01.09"]],
+			"name": "Frankfurt am Main",
+			"country": "Germany"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Stockholm",
+		"country": "Sweden",
+		"value": {
+			"intervals": [["01.07", "15.08"]],
+			"name": "Stockholm",
+			"country": "Sweden"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Lima",
+		"country": "Peru",
+		"value": {
+			"intervals": [["01.04", "15.10"]],
+			"name": "Lima",
+			"country": "Peru"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Da Nang",
+		"country": "Vietnam",
+		"value": {
+			"intervals": [["01.01", "01.04"]],
+			"name": "Da Nang",
+			"country": "Vietnam"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Batam",
+		"country": "Indonesia",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Batambak",
+			"country": "Indonesia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Nice",
+		"country": "France",
+		"value": {
+			"intervals": [["01.06", "01.10"]],
+			"name": "Nice",
+			"country": "France"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Fukuoka",
+		"country": "Japan",
+		"value": {
+			"intervals": [["15.09", "15.10"]],
+			"name": "Fukuoka",
+			"country": "Japan"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Abu Dhabi",
+		"country": "United Arab Emirates",
+		"value": {
+			"intervals": [["01.12", "01.04"]],
+			"name": "Abu Dhabi",
+			"country": "United Arab Emirates"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Jeju",
+		"country": "South Korea",
+		"value": {
+			"intervals": [["01.09", "15.10"]],
+			"name": "Jeju City",
+			"country": "South Korea"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Porto",
+		"country": "Portugal",
+		"value": {
+			"intervals": [["15.06", "01.09"]],
+			"name": "Porto",
+			"country": "Portugal"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Rhodes",
+		"country": "Greece",
+		"value": {
+			"intervals": [
+				["01.05", "01.07"],
+				["01.09", "01.11"]
+			],
+			"name": "Rhodes",
+			"country": "Greece"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Rio de Janeiro",
+		"country": "Brazil",
+		"value": {
+			"intervals": [["15.05", "01.10"]],
+			"name": "Rio de Janeiro",
+			"country": "Brazil"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Krabi",
+		"country": "Thailand",
+		"value": {
+			"intervals": [["01.12", "01.03"]],
+			"name": "Krabi",
+			"country": "Thailand"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Bangalore",
+		"country": "India",
+		"value": {
+			"intervals": [["15.11", "01.03"]],
+			"name": "Bengaluru",
+			"country": "India"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Mexico City",
+		"country": "Mexico",
+		"value": {
+			"intervals": [["01.04", "01.06"]],
+			"name": "Mexico City",
+			"country": "Mexico"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Punta Cana",
+		"country": "Dominican Republic",
+		"value": {
+			"intervals": [["15.12", "01.04"]],
+			"name": "Punta Cana",
+			"country": "Dominican Republic"
+		}
+	},
+	{
+		"ok": true,
+		"city": "São Paulo",
+		"country": "Brazil",
+		"value": {
+			"intervals": [
+				["01.04", "01.07"],
+				["01.08", "15.09"]
+			],
+			"name": "São Paulo",
+			"country": "Brazil"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Zürich",
+		"country": "Switzerland",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Zürich",
+			"country": "Switzerland"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Montreal",
+		"country": "Canada",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Montréal",
+			"country": "Canada"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Washington D.C.",
+		"country": "United States",
+		"value": {
+			"intervals": [
+				["01.07", "30.07"],
+				["15.08", "01.10"]
+			],
+			"name": "Washington, D.C.",
+			"country": "Washington, D.C.; United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Chicago",
+		"country": "United States",
+		"value": {
+			"intervals": [["15.06", "15.09"]],
+			"name": "Chicago",
+			"country": "Illinois, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Düsseldorf",
+		"country": "Germany",
+		"value": {
+			"intervals": [["15.06", "01.09"]],
+			"name": "Düsseldorf",
+			"country": "Germany"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Boston",
+		"country": "United States",
+		"value": {
+			"intervals": [["01.07", "15.09"]],
+			"name": "Boston",
+			"country": "Massachusetts, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Chengdu",
+		"country": "China",
+		"value": {
+			"intervals": [
+				["01.05", "15.06"],
+				["01.09", "01.11"]
+			],
+			"name": "Chengdu",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Edinburgh",
+		"country": "United Kingdom",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Edinburgh",
+			"country": "United Kingdom"
+		}
+	},
+	{
+		"ok": true,
+		"city": "San Jose",
+		"country": "United States",
+		"value": {
+			"intervals": [["15.06", "01.10"]],
+			"name": "San Jose",
+			"country": "California, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Tehran",
+		"country": "Iran",
+		"value": {
+			"intervals": [
+				["01.05", "01.06"],
+				["01.09", "15.10"]
+			],
+			"name": "Tehran",
+			"country": "Iran"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Houston",
+		"country": "United States",
+		"value": {
+			"intervals": [
+				["01.04", "15.05"],
+				["01.10", "01.11"]
+			],
+			"name": "Houston",
+			"country": "Texas, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Hamburg",
+		"country": "Germany",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Hamburg",
+			"country": "Germany"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Cape Town",
+		"country": "South Africa",
+		"value": {
+			"intervals": [["01.12", "01.04"]],
+			"name": "Cape Town",
+			"country": "South Africa"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Manila",
+		"country": "Philippines",
+		"value": {
+			"intervals": [["01.01", "01.03"]],
+			"name": "Manila",
+			"country": "Philippines"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Bogota",
+		"country": "Colombia",
+		"value": {
+			"intervals": [
+				["01.06", "01.10"],
+				["01.12", "01.03"]
+			],
+			"name": "Bogotá",
+			"country": "Colombia"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Xi'an",
+		"country": "China",
+		"value": {
+			"intervals": [
+				["01.05", "01.07"],
+				["15.08", "01.10"]
+			],
+			"name": "Xi’an",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Beirut",
+		"country": "Lebanon",
+		"value": {
+			"intervals": [["01.05", "01.07"]],
+			"name": "Beirut",
+			"country": "Lebanon"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Geneva",
+		"country": "Switzerland",
+		"value": {
+			"intervals": [["01.07", "01.09"]],
+			"name": "Genève",
+			"country": "Switzerland"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Colombo",
+		"country": "Sri Lanka",
+		"value": {
+			"intervals": [["15.12", "15.02"]],
+			"name": "Colombo",
+			"country": "Sri Lanka"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Xiamen",
+		"country": "China",
+		"value": {
+			"intervals": [["01.10", "01.12"]],
+			"name": "Xiamen",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Bucharest",
+		"country": "Romania",
+		"value": {
+			"intervals": [["01.06", "01.10"]],
+			"name": "Bucharest",
+			"country": "Romania"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Casablanca",
+		"country": "Morocco",
+		"value": {
+			"intervals": [["01.06", "15.09"]],
+			"name": "Casablanca",
+			"country": "Morocco"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Atlanta",
+		"country": "United States",
+		"value": {
+			"intervals": [
+				["01.05", "15.06"],
+				["01.09", "15.10"]
+			],
+			"name": "Atlanta",
+			"country": "Georgia, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Sofia",
+		"country": "Bulgaria",
+		"value": {
+			"intervals": [["15.06", "15.09"]],
+			"name": "Sofia",
+			"country": "Bulgaria"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Dalian",
+		"country": "China",
+		"value": {
+			"intervals": [
+				["01.06", "15.07"],
+				["15.08", "01.10"]
+			],
+			"name": "Dalian",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Montevideo",
+		"country": "Uruguay",
+		"value": {
+			"intervals": [["01.11", "01.04"]],
+			"name": "Montevideo",
+			"country": "Uruguay"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Amman",
+		"country": "Jordan",
+		"value": {
+			"intervals": [
+				["15.05", "01.08"],
+				["15.08", "01.11"]
+			],
+			"name": "Amman",
+			"country": "Jordan"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Hangzhou",
+		"country": "China",
+		"value": {
+			"intervals": [["15.09", "15.10"]],
+			"name": "Hangzhou",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Pune",
+		"country": "India",
+		"value": {
+			"intervals": [["01.11", "01.04"]],
+			"name": "Pune",
+			"country": "India"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Durban",
+		"country": "South Africa",
+		"value": {
+			"intervals": [["15.04", "01.10"]],
+			"name": "Durban",
+			"country": "South Africa"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Dallas",
+		"country": "United States",
+		"value": {
+			"intervals": [
+				["15.04", "01.06"],
+				["15.09", "01.11"]
+			],
+			"name": "Dallas",
+			"country": "Texas, United States"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Accra",
+		"country": "Ghana",
+		"value": {
+			"intervals": [["15.07", "01.09"]],
+			"name": "Accra",
+			"country": "Ghana"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Quito",
+		"country": "Ecuador",
+		"value": {
+			"intervals": [["15.06", "15.09"]],
+			"name": "Quito",
+			"country": "Ecuador"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Tianjin",
+		"country": "China",
+		"value": {
+			"intervals": [
+				["15.05", "01.07"],
+				["15.08", "01.10"]
+			],
+			"name": "Tianjin",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Qingdao",
+		"country": "China",
+		"value": {
+			"intervals": [
+				["01.06", "01.07"],
+				["01.09", "15.10"]
+			],
+			"name": "Qingdao",
+			"country": "China"
+		}
+	},
+	{
+		"ok": true,
+		"city": "Lagos",
+		"country": "Nigeria",
+		"value": {
+			"intervals": [["01.08", "01.09"]],
+			"name": "Lagos",
+			"country": "Nigeria"
+		}
+	}
+]
