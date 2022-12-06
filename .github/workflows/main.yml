@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Install pnpm
         uses: pnpm/action-setup@v2
@@ -29,7 +29,7 @@ jobs:
         run: pnpm install
 
       - name: Check code
-        run: pnpm run lint
+        run: pnpm run validate
 
       - name: Build
         run: pnpm run build
