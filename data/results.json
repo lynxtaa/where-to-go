@@ -703,7 +703,7 @@
 		"city": "Penang Island",
 		"country": "Malaysia",
 		"value": {
-			"intervals": [["15.12", "30.02"]],
+			"intervals": [["15.12", "01.03"]],
 			"name": "Penang International Airport",
 			"country": "Malaysia"
 		}

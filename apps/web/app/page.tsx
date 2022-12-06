@@ -23,28 +23,30 @@ const resultsSortedByCountry = sortBy(
 )
 
 export default function Page() {
+	const months = [
+		'Jan',
+		'Feb',
+		'Mar',
+		'Apr',
+		'May',
+		'Jun',
+		'Jul',
+		'Aug',
+		'Sep',
+		'Oct',
+		'Nov',
+		'Dec',
+	].map(month => (
+		<div className="text-center col-span-2 p-2" key={month}>
+			{month}
+		</div>
+	))
+
 	return (
 		<div className="my-0 mx-auto p-4 max-w-4xl">
 			<h1 className="text-2xl text-center mb-3">Where To Go</h1>
 			<div className="grid grid-cols-24 bg-gray-900">
-				{[
-					'Jan',
-					'Feb',
-					'Mar',
-					'Apr',
-					'May',
-					'Jun',
-					'Jul',
-					'Aug',
-					'Sep',
-					'Oct',
-					'Nov',
-					'Dec',
-				].map(month => (
-					<div className="text-center col-span-2 p-2" key={month}>
-						{month}
-					</div>
-				))}
+				{months}
 				{resultsSortedByCountry
 					.map(result => {
 						const intervals: [from: Date, to: Date][] = (
@@ -151,6 +153,7 @@ export default function Page() {
 							</div>
 						))
 					})}
+				{months}
 			</div>
 		</div>
 	)

@@ -10,9 +10,6 @@
 			"inputs": ["**/*.{ts,tsx}", "./tsconfig.json"],
 			"outputs": []
 		},
-		"dev": {
-			"cache": false
-		},
 		"lint": {
 			"inputs": ["**/*.{js,jsx,mjs,ts,tsx}", "./.eslintrc.{cjs,js}"],
 			"outputs": []
@@ -22,14 +19,6 @@
 		},
 		"scraper:build": {
 			"outputs": ["dist/**"]
-		},
-		"update-stats-day": {
-			"dependsOn": ["scraper:build"],
-			"cache": false
-		},
-		"update-stats-month": {
-			"dependsOn": ["scraper:build"],
-			"cache": false
 		}
 	}
 }
