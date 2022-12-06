@@ -45,7 +45,7 @@ export default function Page() {
 	return (
 		<div className="my-0 mx-auto p-4 max-w-4xl">
 			<h1 className="text-2xl text-center mb-3">Where To Go</h1>
-			<div className="grid grid-cols-24 bg-gray-900">
+			<div className="grid grid-cols-24 bg-gray-900 gap-y-2">
 				{months}
 				{resultsSortedByCountry
 					.map(result => {
@@ -94,7 +94,7 @@ export default function Page() {
 						for (const column of range(1, 25)) {
 							const isInInterval = cols.has(column)
 							const latestSpan = spans.at(-1)
-							if (latestSpan !== undefined && latestSpan.isInInterval === isInInterval) {
+							if (latestSpan?.isInInterval === isInInterval) {
 								latestSpan.span++
 							} else {
 								spans.push({ isInInterval, span: 1 })
