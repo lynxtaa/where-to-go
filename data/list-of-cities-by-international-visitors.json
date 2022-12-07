@@ -48,10 +48,6 @@
 		"country": "Turkey"
 	},
 	{
-		"city": "Shenzhen",
-		"country": "China"
-	},
-	{
 		"city": "Mumbai",
 		"country": "India"
 	},
@@ -264,10 +260,6 @@
 		"country": "Japan"
 	},
 	{
-		"city": "Zhuhai",
-		"country": "China"
-	},
-	{
 		"city": "Vancouver",
 		"country": "Canada"
 	},
@@ -310,10 +302,6 @@
 	{
 		"city": "Tel Aviv",
 		"country": "Israel"
-	},
-	{
-		"city": "Guilin",
-		"country": "China"
 	},
 	{
 		"city": "Honolulu",
@@ -432,10 +420,6 @@
 		"country": "United States"
 	},
 	{
-		"city": "Chengdu",
-		"country": "China"
-	},
-	{
 		"city": "Edinburgh",
 		"country": "United Kingdom"
 	},
@@ -468,10 +452,6 @@
 		"country": "Colombia"
 	},
 	{
-		"city": "Xi'an",
-		"country": "China"
-	},
-	{
 		"city": "Beirut",
 		"country": "Lebanon"
 	},
@@ -482,10 +462,6 @@
 	{
 		"city": "Colombo",
 		"country": "Sri Lanka"
-	},
-	{
-		"city": "Xiamen",
-		"country": "China"
 	},
 	{
 		"city": "Bucharest",
@@ -504,20 +480,12 @@
 		"country": "Bulgaria"
 	},
 	{
-		"city": "Dalian",
-		"country": "China"
-	},
-	{
 		"city": "Montevideo",
 		"country": "Uruguay"
 	},
 	{
 		"city": "Amman",
 		"country": "Jordan"
-	},
-	{
-		"city": "Hangzhou",
-		"country": "China"
 	},
 	{
 		"city": "Pune",
@@ -538,14 +506,6 @@
 	{
 		"city": "Quito",
 		"country": "Ecuador"
-	},
-	{
-		"city": "Tianjin",
-		"country": "China"
-	},
-	{
-		"city": "Qingdao",
-		"country": "China"
 	},
 	{
 		"city": "Lagos",
