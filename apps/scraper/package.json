@@ -7,10 +7,10 @@
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
+    "check-format": "prettier --check src",
+    "check-types": "tsc --noEmit",
     "dev": "tsc-watch --noClear --onSuccess \"node ./dist/index.js\"",
-    "lint": "eslint --ext .js,.ts src",
-    "update-stats-day": "node dist/scripts/fillTableLatestDay.js",
-    "update-stats-month": "node dist/scripts/fillTableMonth.js"
+    "lint": "eslint --ext .js,.ts src"
   },
   "prettier": "@lynxtaa/prettier-config",
   "dependencies": {
@@ -26,11 +26,11 @@
     "@lynxtaa/eslint-config": "0.5.3",
     "@lynxtaa/prettier-config": "0.1.1",
     "@types/cheerio": "0.22.31",
-    "@types/lodash": "4.14.190",
-    "@types/node": "18.11.10",
+    "@types/lodash": "4.14.191",
+    "@types/node": "18.11.11",
     "@types/papaparse": "5.3.5",
-    "eslint": "8.28.0",
-    "prettier": "2.8.0",
+    "eslint": "8.29.0",
+    "prettier": "2.8.1",
     "rimraf": "3.0.2",
     "tsc-watch": "5.0.3",
     "typescript": "4.9.3"
