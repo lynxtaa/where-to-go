@@ -15,7 +15,8 @@
   },
   "prettier": "@lynxtaa/prettier-config",
   "dependencies": {
-    "classnames": "2.3.2",
+    "clsx": "1.2.1",
+    "countries-list": "2.6.1",
     "date-fns": "2.29.3",
     "lodash": "4.17.21",
     "next": "13.2.1",
