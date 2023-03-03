@@ -32,7 +32,7 @@ export default function Content({ countries }: Props) {
 		[countries],
 	)
 
-	const [activeContinents, setActiveContinents] = useState<string[]>(continentNames)
+	const [activeContinents, setActiveContinents] = useState<string[]>([])
 
 	return (
 		<>
@@ -78,7 +78,11 @@ export default function Content({ countries }: Props) {
 					</div>
 				))}
 				{countries
-					.filter(country => activeContinents.includes(country.continent))
+					.filter(country =>
+						activeContinents.length === 0
+							? true
+							: activeContinents.includes(country.continent),
+					)
 					.map(result => {
 						const intervals: [from: Date, to: Date][] = (
 							result.intervals as [string, string][]
