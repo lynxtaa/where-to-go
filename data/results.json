@@ -1389,5 +1389,15 @@
 			"name": "Lagos",
 			"country": "Nigeria"
 		}
+	},
+	{
+		"ok": true,
+		"city": "Belgrade",
+		"country": "Serbia",
+		"value": {
+			"intervals": [["01.06", "01.10"]],
+			"name": "Belgrade",
+			"country": "Serbia"
+		}
 	}
 ]
