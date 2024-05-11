@@ -46,7 +46,7 @@ export default function Content({ countries }: Props) {
 								activeContinents.includes(continent)
 									? activeContinents.filter(
 											activeContinent => activeContinent !== continent,
-									  )
+										)
 									: [...activeContinents, continent],
 							)
 						}
@@ -94,7 +94,7 @@ export default function Content({ countries }: Props) {
 								? [
 										[startOfYear(new Date()), intervalTo],
 										[intervalFrom, endOfYear(new Date())],
-								  ]
+									]
 								: [[intervalFrom, intervalTo]]
 						})
 

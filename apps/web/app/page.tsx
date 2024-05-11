@@ -1,4 +1,10 @@
-import { countries, continents } from 'countries-list'
+import {
+	countries,
+	continents,
+	getEmojiFlag,
+	getCountryCode,
+	TCountryCode,
+} from 'countries-list'
 import sortBy from 'lodash/sortBy'
 
 import data from '../../../data/results.json'
@@ -25,10 +31,11 @@ const resultsWithContinents = resultsSortedByCountry.map(result => {
 	if (!country) {
 		throw new Error(`No country for ${result.country}`)
 	}
+	const code = getCountryCode(country.name)
 	return {
 		...result,
-		continent: continents[country.continent as keyof typeof continents]!,
-		emoji: country.emoji,
+		continent: continents[country.continent],
+		emoji: getEmojiFlag(code as TCountryCode),
 	}
 })
 
