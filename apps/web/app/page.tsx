@@ -3,7 +3,7 @@ import {
 	continents,
 	getEmojiFlag,
 	getCountryCode,
-	TCountryCode,
+	type TCountryCode,
 } from 'countries-list'
 import sortBy from 'lodash/sortBy'
 

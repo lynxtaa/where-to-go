@@ -1,5 +1,5 @@
-import clsx, { ClassValue } from 'clsx'
-import { ButtonHTMLAttributes, DetailedHTMLProps } from 'react'
+import clsx, { type ClassValue } from 'clsx'
+import { type ButtonHTMLAttributes, type DetailedHTMLProps } from 'react'
 
 type Props = {
 	children?: React.ReactNode
