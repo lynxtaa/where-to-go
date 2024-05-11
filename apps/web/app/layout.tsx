@@ -1,9 +1,14 @@
-import { Metadata } from 'next'
+import { type Metadata } from 'next'
 import '../styles/global.css'
 
 export const metadata: Metadata = {
 	title: 'Where To Go',
 	description: 'Where To Go',
+	metadataBase: new URL(
+		process.env.VERCEL_URL !== undefined
+			? `https://${process.env.VERCEL_URL}`
+			: `http://localhost:${process.env.PORT ?? 3000}`,
+	),
 	icons: {
 		apple: '/apple-touch-icon.png',
 		icon: [
